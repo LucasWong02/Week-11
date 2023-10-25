@@ -1,0 +1,9 @@
+For the past few weeks we've been seeing themes like embedding, clustering, fine-tuning and now transferred learning so in my head I've been developing a project of mine that would apply all these themes in the code you'll see next you will be able to see topics like embedding and partially transfer learning I right now need to search for a bigger database for fine-tuning in this project because I am applying GPT3 and how this tool we can use for a transfer learning.
+
+In this project we are applying also applying clustering.
+
+I'm going to explain a little bit about this project: It is a PDF analyzer for example we have on this this is specifically is applied for financial reports.\
+
+So the first thing we do in this project is after we analyze the whole PDF or it's information we embed the data so that it isn't too large. And so less costly for the tokens used for the operation.
+
+After we in embed the data based on the prompt done by the user we apply clustering so that we get the most important data related to the prompt. Finally we do something like fine-tuning but related to an area code prompt engineering. Cause it is directly applied to the prompt.
